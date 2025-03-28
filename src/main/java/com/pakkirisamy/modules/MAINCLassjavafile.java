@@ -1,4 +1,4 @@
 package com.pakkirisamy.modules;
 
-public class ToBeDeterminted {
+public class MAINCLassjavafile {
 }
