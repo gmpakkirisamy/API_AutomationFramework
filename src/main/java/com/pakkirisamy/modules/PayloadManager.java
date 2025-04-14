@@ -36,6 +36,7 @@ public String createPayloadBookingAsString() {
         Gson gson = new Gson();
         String jsonStringBooking = gson.toJson(booking);
         System.out.println(jsonStringBooking);
+        return jsonStringBooking;
 
     }
 

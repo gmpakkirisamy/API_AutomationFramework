@@ -1,4 +1,4 @@
 package com.pakkirisamy.modules;
 
-public class payload3 {
+public class payload {
 }
